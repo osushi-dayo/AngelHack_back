@@ -1,2 +1,3 @@
-# node_receiving_gps
-GPS情報をうけるためのNode.jsサーバプログラム
+# node_rangelhack_demo
+
+デモ用 3つコマンドが揃ったらangelhack公式ページにリダイレクトなど
